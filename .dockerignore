@@ -1,0 +1,9 @@
+# directories
+**/bin/
+**/docs/
+**/obj/
+
+# files
+Dockerfile*
+**/*.trx
+**/*.md
